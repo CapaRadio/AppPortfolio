@@ -180,7 +180,7 @@ const Home = () => {
                   <div className="col-md-8 col-sm-6 col-xs-12 about-col">
                     <div className="about-details wow fadeIn">
                       <div className="main-title left-title text-left wow fadeIn">
-                        <h3>Hello! This is Sanajit</h3>
+                        <h3>Hello! This is Capalbo Dario</h3>
                         <div className="underline1 no-margin"></div>
                         <div className="underline2 no-margin"></div>
                       </div>
@@ -374,12 +374,11 @@ const Home = () => {
                           aria-hidden="true"
                         ></i>
                         <h3>School</h3>
-                        <h2>2010-2017</h2>
+                        <h2>2018-2021</h2>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          Completed my school life from Haludbari High School
-                          (H.S.), Khejuri, West Bengal, India.
+                          Completed my school life from France, at Vitry-sur-Seine, in the School Jean macé.
                         </p>
                       </div>
                     </div>
@@ -393,20 +392,19 @@ const Home = () => {
                           aria-hidden="true"
                         ></i>
                         <h3>Graduation</h3>
-                        <h2>2017-2020</h2>
+                        <h2>2023-2024</h2>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
                           Achieved my Graduation Degree from{" "}
                           <a
-                            href="https://www.cclms.org/"
+                            href="https://www.assofac.org/"
                             target="_blank"
                             rel="noopener noreferrer"
                           >
-                            CCLMS (Contai College of Learning and Management
-                            Science)
+                            Assofac School
                           </a>
-                          , Contai, West Bengal, India.
+                          , Paris, Montreuil.
                         </p>
                       </div>
                     </div>
@@ -419,20 +417,20 @@ const Home = () => {
                           className="fa fa-graduation-cap resume-icon"
                           aria-hidden="true"
                         ></i>
-                        <h3>Training &amp; Skill</h3>
+                        <h3>Training &amp; Skill By my self</h3>
                         <h2>2022-2022</h2>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p>
-                          Currently learning Full-Stack Web Development from{" "}
+                          Currently learning Full-Stack Web Development from{" "} 
                           <a
-                            href="https://masaischool.com/"
+                            href="https://www.youtube.com/"
                             target="_blank"
                             rel="noopener noreferrer"
                           >
-                            Masai School
+                            Youtube
                           </a>
-                          , Bengaluru, India.
+                          , At home, Vitry-sur-Seine.
                         </p>
                       </div>
                     </div>
@@ -880,7 +878,7 @@ const Home = () => {
                                 <div className="active item">
                                   <blockquote>
                                     <p>
-                                      “Sanajit was a real pleasure to work with
+                                      “Capalbo was a real pleasure to work with
                                       and we look forward to working with him
                                       again. He’s definitely the kind of
                                       developer you can trust with a project
@@ -893,7 +891,7 @@ const Home = () => {
                                 <div className="item">
                                   <blockquote>
                                     <p>
-                                      “Sanajit's a clear communicator with the
+                                      “Capalbo a clear communicator with the
                                       tenacity and confidence to really dig in
                                       to tricky design scenarios and the
                                       collaborative friction that's needed to
@@ -906,7 +904,7 @@ const Home = () => {
                                 <div className="item">
                                   <blockquote>
                                     <p>
-                                      “Sanajit has done a fantastic job overall.
+                                      “Capalbo has done a fantastic job overall.
                                       Not only the site is to design, but the
                                       code is also very clean and slick. Love
                                       the way he achieved the translations
@@ -955,7 +953,7 @@ const Home = () => {
                     <div className="col-md-4 col-sm-6">
                       <div className="blog-main">
                         <a
-                          href="https://dev.to/sanajitjana/what-is-hooks-in-react-js-41l2"
+                          href="https://dev.to/caparadio/what-is-hooks-in-react-js-1k8n"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -967,7 +965,7 @@ const Home = () => {
                         </a>
                         <div className="blog-head">
                           <a
-                            href="https://dev.to/sanajitjana/what-is-hooks-in-react-js-41l2"
+                            href="https://dev.to/caparadio/what-is-hooks-in-react-js-1k8n"
                             target="_blank"
                             rel="noopener noreferrer"
                             style={{ textDecoration: "none" }}
@@ -990,7 +988,7 @@ const Home = () => {
                             and hooks is ...
                           </p>
                           <a
-                            href="https://dev.to/sanajitjana/what-is-hooks-in-react-js-41l2"
+                            href="https://dev.to/caparadio/what-is-hooks-in-react-js-1k8n"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="about-link-2"
@@ -1003,7 +1001,7 @@ const Home = () => {
                     <div className="col-md-4 col-sm-6">
                       <div className="blog-main">
                         <a
-                          href="https://dev.to/sanajitjana/the-importance-of-ui-ux-software-engineering-1n0n"
+                          href="https://dev.to/caparadio/the-importance-of-uiux-software-engineering-dc3"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -1015,7 +1013,7 @@ const Home = () => {
                         </a>
                         <div className="blog-head">
                           <a
-                            href="https://dev.to/sanajitjana/the-importance-of-ui-ux-software-engineering-1n0n"
+                            href="https://dev.to/caparadio/the-importance-of-uiux-software-engineering-dc3"
                             target="_blank"
                             rel="noopener noreferrer"
                             style={{ textDecoration: "none" }}
@@ -1038,7 +1036,7 @@ const Home = () => {
                             keyboard and the appearance ...
                           </p>
                           <a
-                            href="https://dev.to/sanajitjana/the-importance-of-ui-ux-software-engineering-1n0n"
+                            href="https://dev.to/caparadio/the-importance-of-uiux-software-engineering-dc3"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="about-link-2"
@@ -1051,7 +1049,7 @@ const Home = () => {
                     <div className="col-md-4 col-sm-6">
                       <div className="blog-main">
                         <a
-                          href="https://dev.to/sanajitjana/form-example-in-laravel-8-45oc"
+                          href="https://dev.to/caparadio/form-example-in-laravel-8-21pp"
                           target="_blank"
                           rel="noopener noreferrer"
                         >
@@ -1063,7 +1061,7 @@ const Home = () => {
                         </a>
                         <div className="blog-head">
                           <a
-                            href="https://dev.to/sanajitjana/form-example-in-laravel-8-45oc"
+                            href="https://dev.to/caparadio/form-example-in-laravel-8-21pp"
                             target="_blank"
                             rel="noopener noreferrer"
                             style={{ textDecoration: "none" }}
@@ -1085,7 +1083,7 @@ const Home = () => {
                             create contact-list ...
                           </p>
                           <a
-                            href="https://dev.to/sanajitjana/form-example-in-laravel-8-45oc"
+                            href="https://dev.to/caparadio/form-example-in-laravel-8-21pp"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="about-link-2"
@@ -1097,7 +1095,7 @@ const Home = () => {
                     </div>
                     <div className="row" style={{ textAlign: "center" }}>
                       <a
-                        href="https://dev.to/sanajitjana"
+                        href="https://dev.to/caparadio"
                         target="newtab"
                         className="btn btn-warning"
                         style={{
@@ -1263,7 +1261,7 @@ const Home = () => {
                           aria-hidden="true"
                         ></i>
                         <h3>Address</h3>
-                        <p>Kolkata, West Bengal, India</p>
+                        <p>Paris</p>
                       </div>
                     </div>
                     <div className="col-md-3 col-sm-6 contact-colamn">
@@ -1274,14 +1272,14 @@ const Home = () => {
                         ></i>
                         <h3>Email</h3>
                         <a
-                          href="mailto:contact.sanajitjana@gmail.com"
+                          href="mailto:dariocapalbo94@gmail.com"
                           style={{
                             color: "black",
                             textDecoration: "none",
                             fontSize: "17px",
                           }}
                         >
-                          contact.sanajitjana@gmail.com
+                          contact.dariocapalbo94@gmail.com
                         </a>
                       </div>
                     </div>
@@ -1300,7 +1298,7 @@ const Home = () => {
                             fontSize: "17px",
                           }}
                         >
-                          +91 8372876775
+                          +33 0602462838
                         </a>
                       </div>
                     </div>
@@ -1311,18 +1309,18 @@ const Home = () => {
                           aria-hidden="true"
                         ></i>
                         <h3>Portfolio</h3>
-                        <p>https://sanajitjana.github.io/</p>
+                        <p>https://github.com/CapaRadio</p>
                       </div>
                     </div>
                   </div>
                 </div>
-                <div class="container-fluid map-col">
+                {/* <div class="container-fluid map-col">
                   <div class="col-md-12 col-sm-12 map-col">
                     <div class="google-maps">
                       <div class="map-wrap">
                         <iframe
                           title="google-maps"
-                          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d471220.5630603985!2d88.0495328251319!3d22.675752087592436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f882db4908f667%3A0x43e330e68f6c2cbc!2sKolkata%2C%20West%20Bengal!5e0!3m2!1sen!2sin!4v1653845709428!5m2!1sen!2sin"
+                          src=""
                           width="100%"
                           height="450"
                           style={{ border: "0" }}
@@ -1333,7 +1331,7 @@ const Home = () => {
                       </div>
                     </div>
                   </div>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
